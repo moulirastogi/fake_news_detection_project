@@ -1,10 +1,8 @@
 # Fake News Detection using Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AtharvaKulkarniIT/Fake-News-Detection-using-Machine-Learning/blob/main/Fake_News_Detection.ipynb)
-
 ## Overview
 
-This repository contains a Jupyter notebook for a Fake News Detection project using machine learning techniques. The notebook is designed to run on Google Colab, leveraging a GPU for accelerated processing.
+This repository contains a Jupyter notebook for a Fake News Detection project using machine learning techniques. 
 
 ## Prerequisites
 
@@ -37,23 +35,14 @@ The notebook is divided into the following sections:
    - Further cleans and prepares the data for model training.
 
 7. **Model Building**
-   - Utilizes four algorithms for training and evaluation:
+   - Utilizes three algorithms for training and evaluation:
       - Logistic Regression
       - Decision Tree Classifier
-      - Gradient Boosting Classifier
       - Random Forest Classifier
 
 8. **Manual Testing**
    - Allows users to input news for manual testing and provides predictions from the trained models.
 
-9. **Hindi to English News Translation**
-   - Translates Hindi news to English for testing.
-
-## Usage
-
-1. Open the notebook in Google Colab using the provided badge.
-2. Run each cell sequentially to execute the code and observe the results.
-3. Optionally, use the manual testing section to input news for predictions.
 
 ## Contributing
 
